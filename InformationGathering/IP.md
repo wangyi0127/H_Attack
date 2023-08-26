@@ -12,7 +12,11 @@
    - 2.3 工具
       + https://www.cdnplanet.com/tools/cdnfinder/
 3. 绕过CDN获取真实IP
-      + 查看IP与域名绑定的历史记录。使用 CDN 之前可能有记录。相关查询网站
+   - 查看IP与域名绑定的历史记录。使用 CDN 之前可能有记录。相关查询网站
+      + DnsDB：https://www.dnsdb.io/zh-cn/
+      + 微步在线：https://x.threatbook.com/
+      + Netcraft：https://www.netcraft.com/ 待确认
+      + IPIP：https://tools.ipip.net/ 功能多
 4. IP段扫描
       + https://github.com/shadow1ng/fscan
       + https://github.com/Adminisme/ServerScan
@@ -20,5 +24,4 @@
 4. ...
 
 - 参考资源：https://xz.aliyun.com/t/10236
-- https://github.com/EdgeSecurityTeam/EHole
 - https://baijiahao.baidu.com/s?id=1732065709434162645&wfr=spider&for=pc
